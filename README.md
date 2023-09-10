@@ -1,3 +1,2 @@
 # Mattison's Geovisualization Portfolio 
-http://localhost:8000/#
-
+https://geog3540.github.io/alcoholconsumption/
